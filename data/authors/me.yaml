@@ -8,13 +8,12 @@ name:
   alternate: ""
   pronunciation: ""
 role: "Head of Research Industrial Robotics & Scientific Coordinator of CRC 1574"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+bio: "I coordinate the Industrial Robotics research at wbk Institute of
+  Production Science, KIT, as well as the Collaborative Research Centre 1574
+  Circular Factory for the Perpetual Innovative Product. My work focuses on
+  intelligent robotic manufacturing systems, where reconfigurable hardware and
+  task and motion planning meet to enable autonomous production and circular
+  economy applications.\n"
 affiliations:
   - name: "wbk Institute of Production Science KIT"
     url: "https://www.wbk.kit.edu/english/index.php"
@@ -34,23 +33,13 @@ interests:
   - "Robotic Manufacturing"
 education:
   - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers
-      in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+    institution: "Karlsruhe Institute of Technology"
+    start: "2022-04-01"
+    end: "Summer 2026"
+  - degree: "MS Computer Engineering"
+    institution: "Heidelberg University"
+    start: "2019-09-01"
+    end: "2021-03-31"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"

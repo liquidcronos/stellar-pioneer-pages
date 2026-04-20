@@ -18,7 +18,7 @@ tags:
   - Manufacturing
 featured: false
 image:
-  filename: taskboard.jpeg
+  filename: taskboard.jpg
   focal_point: Center
   preview_only: false
 hugoblox:
