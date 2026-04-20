@@ -26,6 +26,10 @@ tags:
   - Control Architecture
   - Resilient Manufacturing
 featured: false
+image:
+  filename: circular-factory-architecture.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.procir.2025.02.236
