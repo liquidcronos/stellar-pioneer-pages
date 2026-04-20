@@ -20,6 +20,10 @@ tags:
   - Path Tracking
   - Trajectory Optimization
 featured: false
+image:
+  filename: path-tracking.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.23919/ACC60939.2024.10644892

@@ -16,6 +16,10 @@ tags:
   - Cell Layout
   - Optimization
 featured: true
+image:
+  filename: one-problem-one-solution.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/IROS58592.2024.10801417

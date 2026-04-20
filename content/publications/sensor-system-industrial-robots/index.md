@@ -20,6 +20,10 @@ tags:
   - Sensor Systems
   - Industrial Robots
 featured: false
+image:
+  filename: path-tracking.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.procir.2026.01.043

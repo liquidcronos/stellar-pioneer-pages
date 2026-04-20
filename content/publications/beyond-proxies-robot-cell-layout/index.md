@@ -16,6 +16,10 @@ tags:
   - Cell Layout Optimization
   - Time-Optimal
 featured: true
+image:
+  filename: time_optimal_cell_layout.gif
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.cirp.2025.04.079

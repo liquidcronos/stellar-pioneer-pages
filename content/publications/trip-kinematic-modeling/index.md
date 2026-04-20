@@ -16,6 +16,10 @@ tags:
   - Kinematics
   - Open Source
 featured: true
+image:
+  filename: trip_kinematics.webp
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.21105/joss.03967

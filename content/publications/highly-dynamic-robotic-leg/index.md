@@ -18,6 +18,10 @@ tags:
   - Robotic Leg
   - Actuators
 featured: false
+image:
+  filename: triped_web_banner.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.5445/IR/1000154130

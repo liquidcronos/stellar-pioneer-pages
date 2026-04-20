@@ -10,6 +10,17 @@ tags:
   - Markdown
 ---
 
+Projekte die hier hin sollten:
+
+SFB
+PräFlexBot
+Maria
+Hannover Messe Demonstrator / EMO Demonstrator
+AutoLern
+TriPed
+
+
+
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->

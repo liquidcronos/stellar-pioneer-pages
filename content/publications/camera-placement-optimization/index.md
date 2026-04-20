@@ -21,6 +21,10 @@ tags:
   - Optimization
   - Sensor Systems
 featured: false
+image:
+  filename: camera-optimization.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/sensors56945.2023.10324941

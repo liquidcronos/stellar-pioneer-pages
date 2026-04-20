@@ -16,6 +16,10 @@ tags:
   - Optimization
   - Design Manifold
 featured: true
+image:
+  filename: manifold-optimization.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/ICRA55743.2025.11128579

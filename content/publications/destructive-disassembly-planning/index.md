@@ -17,6 +17,10 @@ tags:
   - Recycling
   - Sustainability
 featured: false
+image:
+  filename: partially-destructive.gif
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/ICRA57147.2024.10610546

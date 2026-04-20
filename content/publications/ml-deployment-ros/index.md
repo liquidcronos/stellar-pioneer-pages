@@ -19,6 +19,10 @@ tags:
   - Manufacturing
   - Deployment
 featured: false
+image:
+  filename: ros-ml-deploy.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.procir.2024.10.074

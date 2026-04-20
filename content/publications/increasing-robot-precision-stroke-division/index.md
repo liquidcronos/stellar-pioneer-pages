@@ -20,6 +20,10 @@ tags:
   - Dual-Robot Systems
   - Path Planning
 featured: false
+image:
+  filename: stroke-division.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/mmar58394.2023.10242468

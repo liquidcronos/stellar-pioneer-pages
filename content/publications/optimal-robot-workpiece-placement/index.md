@@ -17,6 +17,10 @@ tags:
   - Workpiece Placement
   - Optimization
 featured: false
+image:
+  filename: sysint.gif
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1007/978-3-031-16281-7_25
