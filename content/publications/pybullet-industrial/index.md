@@ -18,6 +18,10 @@ tags:
   - Simulation
   - Open Source
 featured: true
+image:
+  filename: pybullet_industrial.gif
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.21105/joss.05174
