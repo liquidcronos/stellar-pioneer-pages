@@ -50,7 +50,7 @@ sections:
 
         If any of this sounds interesting, please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
