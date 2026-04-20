@@ -9,7 +9,7 @@ publishDate: "2025-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*CIRP Annals*"
 publication_short: ""
-abstract: ""
+abstract: "Cycle time is critical in robotic cells where material handling often presents a bottleneck and in turn depends on the cell layout. Optimizing robot cell layouts is therefore essential for improving cycle time. We show that the proxy objectives used for this optimization are poor approximations of the real cycle time and introduce a optimizer that directly measures the duration of the time-optimal robot trajectory. We show that it can offer competitive performance even faster than proxy-based optimization. We validate this performance on multiple problems and show how to integrate it into the cell design process of a manufacturing cell."
 summary: ""
 tags:
   - Robotics
