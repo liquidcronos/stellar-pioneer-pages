@@ -11,3 +11,8 @@
 [role="article"] .border-t .flex-wrap>time {
     display: inline !important;
 }
+
+/* Make markdown block content wider */
+.hb-section-markdown .prose {
+    max-width: 80ch;
+}
