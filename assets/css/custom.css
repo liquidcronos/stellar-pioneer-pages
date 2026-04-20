@@ -1,0 +1,12 @@
+/* Hide summary text on cards (only title + image + year should show) */
+[role="article"] .line-clamp-3 {
+  display: none;
+}
+
+/* In card metadata rows, hide everything except the date */
+[role="article"] .border-t .flex-wrap > :not(time) {
+  display: none;
+}
+[role="article"] .border-t .flex-wrap > time {
+  display: inline !important;
+}
