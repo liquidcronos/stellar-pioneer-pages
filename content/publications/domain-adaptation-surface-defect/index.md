@@ -19,6 +19,10 @@ tags:
   - Deep Learning
   - Manufacturing
 featured: false
+image:
+  filename: triplett_loss.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1109/CASE59546.2024.10711640

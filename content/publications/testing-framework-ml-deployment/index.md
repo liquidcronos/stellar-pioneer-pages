@@ -20,6 +20,10 @@ tags:
   - Manufacturing
   - Deployment
 featured: false
+image:
+  filename: ml_testing.png
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.procir.2024.07.022
