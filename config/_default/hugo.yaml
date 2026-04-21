@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: ""
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://example.com/"
 
 ############################
 ## LANGUAGE
@@ -25,7 +25,7 @@ cascade:
   - target:
       path: /slides/**
       kind: page
-    outputs: [HTML, present]
+    outputs: [ HTML, present ]
 
 ############################
 ## ADVANCED
@@ -36,15 +36,15 @@ build:
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 10
+  pagerSize: 30
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles: [ ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
-  section: [HTML, RSS]
+  home: [ HTML, RSS, headers, redirects, backlinks ]
+  section: [ HTML, RSS ]
 imaging:
   resampleFilter: lanczos
   quality: 90
