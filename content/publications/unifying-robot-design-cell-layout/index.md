@@ -15,7 +15,7 @@ tags:
   - Robot Design
   - Cell Layout
   - Optimization
-featured: true
+featured: false
 image:
   filename: one-problem-one-solution.png
   focal_point: Center

@@ -15,7 +15,7 @@ tags:
   - Robotics
   - Kinematics
   - Open Source
-featured: true
+featured: false
 image:
   filename: trip_kinematics.webp
   focal_point: Center

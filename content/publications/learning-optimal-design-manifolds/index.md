@@ -15,7 +15,7 @@ tags:
   - Robot Design
   - Optimization
   - Design Manifold
-featured: true
+featured: false
 image:
   filename: manifold-optimization.png
   focal_point: Center
