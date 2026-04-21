@@ -7,8 +7,6 @@ links:
 tags:
 ---
 
-{{< youtube rfCBXFJD1Gc >}}
-
 
 The TriPed project was one of the robotics systems for which I was the main driver. This threelegged robot was meant as a plattform to explore novel locomotion strategies and I was deeply involved in turning that concept into a working system.
 

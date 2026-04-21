@@ -40,7 +40,7 @@ abstract: To support the circular economy, robotic systems must not only
 links:
   - type: source
     url: https://arxiv.org/abs/2511.23407
-  - type: Website
+  - type: site
     url: https://wbk-robotics.github.io/From-CAD-to-POMDP/
 featured: true
 image:

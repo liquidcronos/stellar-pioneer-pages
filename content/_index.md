@@ -42,15 +42,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Most robotics research deploys intelligent algorithms on simple hardware. Manufacturing researchers often do the opposite: build specialized machines to avoid complex reasoning systems. My research sits at this intersection of robotic manufacturing systems for the circular economy. These systems require both the adaptability of robotics to deal with the uncertainties of disassembly and remanufacturing and the robustness and throughput of manufacturing to meet industrial demands.
-
-        To solve this, I build robotic manufacturing systems where task-specific, reconfigurable hardware is combined with intelligent planning and control. Neither field alone has the tools for this: you need the adaptability of modern robotic reasoning systems *and* the robustness of customized tools and hardware.
-
-        My long-term goal is to enable autonomous systems that can zero-shot produce arbitrary parts. Given a CAD model, the system designs its tooling, configures its hardware, and then produces the desired parts. This requires advanced in task and motion planning, control, and design optimization algorithms that can reason about CAD models and manufacturing processes. 
-
+        Most robotics research deploys intelligent algorithms on simple hardware. Manufacturing researchers often do the opposite: build specialized machines to avoid complex reasoning systems. I am interested in exploring what can be achieved when you combine the adaptability of intelligent algorithms with the robustness of industrial hardware.
+        My ultimate vision is to enable robotic manufacturing systems that can autonomously produce or repair arbitrary parts. To achieve this, I work on the algorithmic design of robotic manufacturing systems, the development of algorithms for planning and control, and the integration of these into real-world systems.
+        
         If any of this sounds interesting, please reach out to collaborate 😃
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: papers
     content:
