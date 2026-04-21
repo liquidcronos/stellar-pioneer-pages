@@ -44,7 +44,7 @@ links:
     url: https://wbk-robotics.github.io/From-CAD-to-POMDP/
 featured: true
 image:
-  filename: cad2pomdp.mp4
+  filename: cad2pomdp.gif
   focal_point: Center
   preview_only: false
 ---
