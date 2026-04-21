@@ -62,13 +62,5 @@ sections:
       columns: 3
       show_read_time: false
       show_read_more: false
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+
 ---
