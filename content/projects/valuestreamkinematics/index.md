@@ -9,18 +9,7 @@ tags:
 
 {{< youtube rfCBXFJD1Gc >}}
 
-The trend towards individualized products and the increasing
-demand for a greater variety of variants create new challenges for existing
-production environments and require a re-thinking of production. Established
-manufacturing systems that provide the desired flexibility are associated with
-significant productivity restrictions and are therefore unable to compete economically
-with production from rigid production lines. They are therefore
-often limited to serving niche markets. Consequently, an approach is needed
-that combines high productivity with high flexibility. For this purpose, this
-paper presents a new approach to manufacturing with an equally high productivity
-and flexibility, so-called value stream kinematics. The basic idea of value
-stream kinematics is to combine the advantages of specialized machines with
-the versatility of industrial robots. The vision behind this is to be able to realize
-entire value streams with uniform robot-like kinematics and no need for special
-machines.
+Value Stream Kinematics is a large research effort at our institute that explores how robot-like kinematics can be used to realize highly flexible and still productive manufacturing systems. The broader goal is to combine the adaptability of industrial robots with the efficiency normally associated with specialized machinery.
+
+Within this effort, I am one of the people responsible for making the system more intelligent. My work has focused in particular on control, trajectory planning, and architectural decisions that shape how such systems can be operated effectively in practice. I contribute to the methods and system concepts that help translate the overall vision into a usable automation approach.
 <!--more-->
