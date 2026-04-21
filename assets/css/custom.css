@@ -12,7 +12,8 @@
     display: inline !important;
 }
 
-/* Make markdown block content wider */
-.hb-section-markdown .prose {
-    max-width: 120ch;
+/* Make only the homepage research markdown block wider */
+.research-wide .prose,
+.research-wide .max-w-prose {
+    max-width: 120ch !important;
 }

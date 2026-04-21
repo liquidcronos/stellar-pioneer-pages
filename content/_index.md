@@ -38,6 +38,7 @@ sections:
         size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -48,6 +49,7 @@ sections:
         If any of this sounds interesting, please reach out to collaborate 😃
     design:
       columns: '1'
+      css_class: research-wide
   - block: collection
     id: papers
     content:
