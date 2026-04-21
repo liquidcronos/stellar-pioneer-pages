@@ -19,6 +19,10 @@ tags:
   - Coupled Robots
   - Manufacturing
 featured: false
+image:
+  filename: coupled_milling_gif_1.gif
+  focal_point: Center
+  preview_only: false
 hugoblox:
   ids:
     doi: 10.1016/j.procir.2024.10.177
