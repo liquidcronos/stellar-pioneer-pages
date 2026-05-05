@@ -1,6 +1,6 @@
 ---
 title: Value Stream Kinematics
-date: 2020-10-25
+date: 2025-10-25
 links:
   - type: site
     url: https://link.springer.com/chapter/10.1007/978-3-662-62138-7_41

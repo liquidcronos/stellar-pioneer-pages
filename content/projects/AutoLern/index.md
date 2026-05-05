@@ -1,6 +1,6 @@
 ---
 title: AutoLern
-date: 2025-06-01
+date: 2024-04-31
 
 tags:
 ---
