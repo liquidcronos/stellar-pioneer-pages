@@ -43,8 +43,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Most robotics research deploys intelligent algorithms on simple hardware. Manufacturing researchers often do the opposite: build specialized machines to avoid complex reasoning systems. I am interested in exploring what can be achieved when you combine the adaptability of intelligent algorithms with the robustness of industrial hardware.
-        My ultimate vision is to enable robotic manufacturing systems that can autonomously produce or repair arbitrary parts. To achieve this, I work on the algorithmic design of robotic manufacturing systems, the development of algorithms for planning and control, and the integration of these into real-world systems.
+        The central difference between human and animal intelligence is the ability to design tools and actively shape the environment to their needs.
+
+        My research brings this capability to robotic systems. I focus on two tightly coupled pillars: the ability to design their tools and ideal environment such as the cell layout and the ability to phyiscally realize a given design.
+        A central challenge here is that design influences behavior and vice versa. Addressing this jointly targets a key bottleneck in robotic manufacturing: not only autonomously programming and adapting the tooling to new tasks.
+        One focus of application is circular manufacturing, which is characterized by high uncertainty and fast task changes that need to be handled through intelligent hardware and software.
         
         If any of this sounds interesting, please reach out to collaborate 😃
     design:
